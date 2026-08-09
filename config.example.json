@@ -1,0 +1,19 @@
+{
+  "_comment": "Pass this file with --config. Categories are merged into the built-in ones unless replace_defaults is true.",
+  "replace_defaults": false,
+  "other_folder": "Misc",
+  "categories": {
+    "Design": [".psd", ".ai", ".xd", ".fig", ".sketch"],
+    "Ebooks": [".epub", ".mobi", ".azw3"],
+    "Torrents": [".torrent"]
+  },
+  "ignore": [
+    "*.tmp",
+    "*.part",
+    "*.crdownload",
+    "desktop.ini",
+    "Thumbs.db",
+    ".DS_Store",
+    "do-not-touch/*"
+  ]
+}

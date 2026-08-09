@@ -1,0 +1,5 @@
+# FileForge runs on the Python standard library alone - nothing to install.
+# Requires Python 3.9+ (developed and tested on 3.11).
+#
+# Tests use the built-in unittest module:
+#     python -m unittest discover -s tests -t tests

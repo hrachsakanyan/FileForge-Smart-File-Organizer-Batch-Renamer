@@ -668,7 +668,9 @@ Add your preferred license here.
 
 **Clean folders. Rename smarter. Delete nothing by accident.**
 
-Made with 🐍 Python
+</p>
 
+<p align="center">
+  Made with 🐍 Python
 </p>
 

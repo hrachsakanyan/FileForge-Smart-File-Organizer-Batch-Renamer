@@ -6,7 +6,7 @@
 
 <p align="center">
 
-**🛡️ Dry Run First** · **↩️ Undoable** · **🚫 No Overwrites** · **🐍 Pure Python**
+**🛡️ Dry Run First** · **↩️ Undoable** · **🚫 No Overwrites** · **🐍 Pure Python** 
 
 </p>
 

@@ -240,7 +240,7 @@ Number formatting is supported:
 
 Regex runs on `{name}` first, allowing regex and patterns to be combined.
 
-### 🔄 Safe rename operations
+### 🔄 Safe rename operations 
 
 FileForge correctly handles swaps and shifts.
 

@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ What is FileForge?
+## ✨ What is FileForge? 
 
 **FileForge** is a safety-first command-line tool designed to clean up messy folders without putting your files at risk.
 

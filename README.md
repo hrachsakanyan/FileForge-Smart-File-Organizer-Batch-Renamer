@@ -386,7 +386,7 @@ Ctrl+C
 
 ---
 
-# ⚙️ Configuration
+# ⚙️ Configuration 
 
 Custom categories can be defined using a JSON configuration file.
 

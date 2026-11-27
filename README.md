@@ -1,4 +1,4 @@
-# 🗂️ FileForge 
+# 🗂️ FileForge
 
 ### Smart File Organizer & Batch Renamer
 
